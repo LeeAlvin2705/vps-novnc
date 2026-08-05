@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://orientation-dare-winning-tower.trycloudflare.com/vnc.html
+URL       : https://mesa-specialized-lenses-knife.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 07:33:14
+Created   : 2026-08-05 11:52:55
 =======================================================
