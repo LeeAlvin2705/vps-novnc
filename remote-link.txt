@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contest-dana-carbon-exp.trycloudflare.com/vnc.html
+URL       : https://van-exercises-barely-drove.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 20:57:28
+Created   : 2026-08-06 01:22:34
 =======================================================
