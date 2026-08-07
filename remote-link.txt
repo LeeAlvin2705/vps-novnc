@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coverage-relationship-automation-breed.trycloudflare.com/vnc.html
+URL       : https://menus-poster-workplace-representation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 15:44:51
+Created   : 2026-08-07 20:30:33
 =======================================================
