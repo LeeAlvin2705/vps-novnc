@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thumbnails-bumper-interested-launches.trycloudflare.com/vnc.html
+URL       : https://outlets-div-synthetic-nowhere.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 15:14:39
+Created   : 2026-08-16 20:11:22
 =======================================================
