@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stick-receiving-legs-teach.trycloudflare.com/vnc.html
+URL       : https://wax-magical-thu-lean.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 15:13:23
+Created   : 2026-08-23 20:11:21
 =======================================================
