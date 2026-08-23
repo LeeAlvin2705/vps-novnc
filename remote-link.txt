@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proxy-ridge-move-preservation.trycloudflare.com/vnc.html
+URL       : https://cotton-stomach-prescribed-shortly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 20:12:12
+Created   : 2026-08-23 00:37:57
 =======================================================
