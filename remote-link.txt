@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cia-poor-allen-focuses.trycloudflare.com/vnc.html
+URL       : https://hampton-rating-upgrading-depot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-01 19:59:58
+Created   : 2026-10-01 23:39:44
 =======================================================
