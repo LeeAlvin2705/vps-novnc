@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bool-covers-disposal-compressed.trycloudflare.com/vnc.html
+URL       : https://lone-desired-authentic-fraction.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 03:05:12
+Created   : 2026-10-07 20:18:03
 =======================================================
