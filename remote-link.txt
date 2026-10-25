@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wine-retained-potential-incurred.trycloudflare.com/vnc.html
+URL       : https://specify-assured-outlets-issue.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 14:02:37
+Created   : 2026-10-25 17:59:21
 =======================================================
