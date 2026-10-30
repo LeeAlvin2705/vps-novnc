@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yield-draws-divided-lid.trycloudflare.com/vnc.html
+URL       : https://world-tag-contributing-pattern.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 19:48:12
+Created   : 2026-10-30 23:23:34
 =======================================================
