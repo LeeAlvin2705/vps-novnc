@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://with-dont-tokyo-corp.trycloudflare.com/vnc.html
+URL       : https://bizrate-gel-tsunami-docs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 12:52:06
+Created   : 2026-11-05 21:18:26
 =======================================================
