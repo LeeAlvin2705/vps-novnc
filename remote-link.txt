@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sauce-qld-threatened-monte.trycloudflare.com/vnc.html
+URL       : https://took-grip-vampire-butter.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 20:41:34
+Created   : 2026-11-07 03:34:03
 =======================================================
