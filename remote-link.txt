@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://zen-analysis-internal-muscles.trycloudflare.com/vnc.html
+URL       : https://advance-relate-cfr-threats.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 23:17:35
+Created   : 2026-11-09 03:25:52
 =======================================================
