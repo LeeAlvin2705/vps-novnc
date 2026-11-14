@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exec-silence-learners-totally.trycloudflare.com/vnc.html
+URL       : https://calcium-amounts-inexpensive-companion.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-14 19:35:17
+Created   : 2026-11-14 23:30:27
 =======================================================
