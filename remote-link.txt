@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consolidated-sister-cambridge-shoot.trycloudflare.com/vnc.html
+URL       : https://flame-analysts-whale-andrea.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-24 04:31:24
+Created   : 2026-11-25 03:15:59
 =======================================================
